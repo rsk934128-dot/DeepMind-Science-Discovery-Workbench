@@ -1,0 +1,7 @@
+{
+  "name": "DeepMind Science Discovery Workbench",
+  "description": "Biomedical & biomolecular discovery platform powered by AlphaFold DB 3D structures, UniProt, PubChem drug scout, ClinVar genomics, Reactome pathways, and PubMed literature synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
